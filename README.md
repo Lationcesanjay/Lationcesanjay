@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lationcesanjay
 - 👀 I’m interested in CODING & HACKING
-- 🌱 I’m currently learning HACKING
+- 🌱 I’m currently learning CODING & HACKING
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
